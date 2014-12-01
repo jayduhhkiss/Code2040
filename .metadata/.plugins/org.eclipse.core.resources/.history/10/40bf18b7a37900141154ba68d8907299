@@ -1,0 +1,17 @@
+package jada.CODE2040;
+
+import java.io.*;
+import org.json.*;
+
+
+public class APIChallenge {
+
+	public static void main(String[] args) {
+		BufferReader br; 
+		JSONObject send; 
+		JSONObject receive; 
+		String token; 
+
+	}
+
+}
